@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Challenge: My Journey as a Software Developer 🚀
 
 # 👋 Hi, I'm Yolani Zito
 
